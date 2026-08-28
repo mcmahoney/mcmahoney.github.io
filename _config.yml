@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "/images/wbpcone_small.JPG"
   name             : # "Michael C. Mahoney"
   pronouns         : "he/him"
   bio              : "PhD Student in UC Davis's Graduate Group in Ecology"
