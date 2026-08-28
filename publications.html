@@ -1,0 +1,18 @@
+---
+layout: default
+title: Publications
+---
+{% assign pubs_by_year = site.data.publications | group_by: "year" %}
+{% for group in pubs_by_year %}
+  <h2>{{ group.name }}</h2>
+  <ul class="pub-list">
+    {% for pub in group.items %}
+      <li>
+        <strong>{{ pub.title }}</strong><br>
+        {{ pub.authors }}. <em>{{ pub.journal }}</em>.
+        {% if pub.doi %} <a href="https://doi.org/{{ pub.doi }}">DOI</a>{% endif %}
+        {% if pub.url %} <a href="{{ pub.url }}">PDF</a>{% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
