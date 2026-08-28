@@ -1,0 +1,7 @@
+.tag-filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 2rem; }
+.tag-btn {
+  padding: 0.4rem 0.9rem; border: 1px solid #ccc; border-radius: 999px;
+  background: #fff; cursor: pointer; font-size: 0.85rem; transition: all 0.15s ease;
+}
+.tag-btn:hover { background: #f0f0f0; }
+.tag-btn.active { background: #333; color: #fff; border-color: #333; }
