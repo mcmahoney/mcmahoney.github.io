@@ -15,7 +15,7 @@ main:
     url: /publications/    
 
   - title: "Blog Posts"
-    url: /blogposts/    
+    url: "https://substack.com/@mcmahoney"  
     
   - title: "Art and Science"
     url: /artandscience/
