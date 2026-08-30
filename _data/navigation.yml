@@ -21,7 +21,7 @@ main:
     url: /artandscience/
         
   - title: "CV"
-    url: /CV/
+    url: /cv/
     
   # - title: "CV"
   # - url: /cv-json/
