@@ -17,8 +17,8 @@ main:
   - title: "Blog Posts"
     url: "https://substack.com/@mcmahoney"  
     
-  - title: "Art and Science"
-    url: /artandscience/
+#  - title: "Art and Science"
+#    url: /artandscience/
         
   - title: "CV"
     url: /cv/
