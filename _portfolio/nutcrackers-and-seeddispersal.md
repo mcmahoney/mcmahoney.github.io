@@ -2,7 +2,7 @@
 title: "Clark's Nutcrackers and their Seed Dispersal Patterns"
 excerpt: "For my dissertation, I am studying Clark's Nutcracker ecology and their seed dispersal patterns in California's Sierra Nevada Mountains to better predict where tree line will advance in the Sierra and for improved whitebark pine conservation."
 header:
-  teaser: portfolio/fire-project-thumb.jpg
+  teaser: images/Nutcracker_in_flight.png
 date: 2026-08-30
 ---
 
@@ -13,7 +13,9 @@ As nutcrackers understudied in the Sierra, there are a variety of directions whe
 1.) *Is nutcracker pine-stand visitation during the late summer harvest season determined by presence and/or density of cone resources?* 
 As whitebark pine is an obligate mutualist, requiring dispersal by nutcrackers for continued germination potential, there is a concern by some that a reduction in whitebark pine resources on the landscape will results in a spiral towards extinction for the pine and it's seed disperser. Previous research has tried to identify the threshold level of cones needed to maintain nutcracker visitation and thus dispersal. California's eastern Sierra boasts a diversity of pine resources for nutcrackers to forage on beyond just whitebark pine. Additional food resources in proximity to whitebark pine may result in nutcrackers spilling over into less cone rich stands maintaining visitation in less productive or smaller stands buffering whitebark pine populations. Alternatively, whitebark pine may compete for nutcracker visitation and dispersal with adjacent pine resources. I am conducting concurrent pinecone and nutcracker counts across forest types and elevational gradients to start to understand the bird's relationship to pine resources in the Sierra.
 
+![Alt text](/images/Nutcracker_in_flight.png)
+
 2.) *Can we understand nutcracker inter-annual habitat preferences using community-sourced data sets like eBird?*
 Clark's Nutcrackers and their habitat preferences at different times of year in the Sierra are still not well understood. I am using eBird, a community-sourced dataset where observers upload bird sightings, to investigate nutcracker relationship to forest type, structure, elevation, and other environmental variables throughout the year.
 
-![Alt text](/images/portfolio/fire-project-full.jpg)
+![Alt text](/images/nutcracker_in_tree.png)
