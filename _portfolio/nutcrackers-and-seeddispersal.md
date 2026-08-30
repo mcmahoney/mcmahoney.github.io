@@ -16,6 +16,6 @@ As whitebark pine is an obligate mutualist, requiring dispersal by nutcrackers f
 ![Alt text](/images/Nutcracker_in_flight.png)
 
 2.) *Can we understand nutcracker inter-annual habitat preferences using community-sourced data sets like eBird?*
-Clark's Nutcrackers and their habitat preferences at different times of year in the Sierra are still not well understood. I am using eBird, a community-sourced dataset where observers upload bird sightings, to investigate nutcracker relationship to forest type, structure, elevation, and other environmental variables throughout the year.
+Clark's Nutcrackers and their habitat preferences at different times of year in the Sierra are still not well understood. I am using eBird, a community-sourced dataset where observers upload bird sightings, to investigate nutcracker relationship to forest type, structure, elevation, and other environmental variables throughout the year. 
 
 ![Alt text](/images/nutcracker_in_tree.png)
