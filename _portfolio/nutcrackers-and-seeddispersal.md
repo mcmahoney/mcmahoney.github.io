@@ -2,7 +2,7 @@
 title: "Clark's Nutcrackers and their Seed Dispersal Patterns"
 excerpt: "For my dissertation, I am studying Clark's Nutcracker ecology and their seed dispersal patterns in California's Sierra Nevada Mountains to better predict where tree line will advance in the Sierra and for improved whitebark pine conservation."
 header:
-  teaser: images/Nutcracker_in_flight.png
+  teaser: Nutcracker_in_flight.png
 date: 2026-08-30
 ---
 
