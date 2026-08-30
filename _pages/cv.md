@@ -105,9 +105,3 @@ Languages
 ======
 * English: Fluent
 * Spanish: Proficient
-
-Technical Skills
-======
-* Proficiency in Microsoft Excel, Word, PowerPoint, and Outlook; and Google Sheets, Slides, Docs, and Drive from daily use
-* Basic understanding of R Studio from routine data wrangling, management, and summary
-* Exposure to ArcGIS and ESRI products
